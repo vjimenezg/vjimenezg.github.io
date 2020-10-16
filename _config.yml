@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vicente Jiménez"
+title                    : "Vicente Jiménez Gimpel"
 title_separator          : "-"
 name                     : &name "Vicente Jiménez"
 description              : &description "Hi! I'm a junior researcher applying to Economics PhD programs"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vicente Jiménez Gimpel"
+  name             : "Vicente Jiménez"
   avatar           : "Perfil.jpg"
   bio              : ""
   location         : "Santiago, Chile"
