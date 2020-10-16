@@ -1,4 +1,5 @@
 ---
+title: "Welcome!"
 permalink: /
 excerpt: "Home"
 author_profile: true
@@ -6,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Welcome!
 
 ## About Me
 
@@ -18,5 +18,5 @@ You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf).
 
 ##  Work in Progress
 
-*Expropriation: A Mechanism Design Approach (joint with  Nicolás Figueroa and Juan-Pablo Montero)* Draft coming soon
+*Expropriation: A Mechanism Design Approach (joint with  Nicolás Figueroa and Juan-Pablo Montero)* '[Draft coming soon
 
