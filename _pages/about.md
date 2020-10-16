@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Welcome!
+
 ## About Me
 
 I'm currently working as a research associate at the [Department of Economics](http://economia.uc.cl) at PUC Chile and as a lecturer at the [Department of Engineering and Sciences](https://ingenieria.uai.cl/) at UAI. My research interests lie in the fields of macroeconomics and information economics.
