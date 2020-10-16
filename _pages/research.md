@@ -7,4 +7,4 @@ author_profile: true
 ---
 
 
-Coming coon
+Coming soon
