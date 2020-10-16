@@ -13,4 +13,4 @@ redirect_from:
 
 Hi! I'm a junior researcher applying for Economics PhD programs (Fall 2021). My research interests lie in the fields of macroeconomics and information economics.
 
-You can find my CV [Here](https://vjimenezg.github.io/files/CV_VJG.pdf)
+You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf).
