@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Vicente Jimenez G."
-  avatar           : "profile.png"
+  avatar           : "Perfil.jpg"
   bio              : "Hi! I'm a junior researcher applying to Economics PhD programs"
   location         : "Santiago, Chile"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "vjimenezgimpel@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
