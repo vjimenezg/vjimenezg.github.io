@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I'm currently working as a research associate at the Department of Economics at PUC Chile and as a lecturer at the Department of Engineering and Sciences at UAI. Also, I'm applying for Economics PhD programs (Fall 2021).
+I'm currently a research associate at the [Department of Economics](http://economia.uc.cl) at PUC Chile and a lecturer at the [Department of Engineering and Sciences](https://ingenieria.uai.cl/) at UAI. Also, I'm applying for Economics PhD programs (Fall 2021).
 
 My research interests lie in the fields of macroeconomics and information economics.
 
