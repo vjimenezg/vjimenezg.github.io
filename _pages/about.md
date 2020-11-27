@@ -22,7 +22,7 @@ You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf) and cont
 
 *Expropriation: A Mechanism Design Approach* (with [Nicolás Figueroa](https://sites.google.com/site/nicolas86figueroa/) and [Juan-Pablo Montero](https://sites.google.com/site/jpmontero1812/home)) [Draft coming soon]
 
-## Other
+## Non-Econ
 
 *The Self in Martin Heidegger's Being and Time* [[link]](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf) (philosophy thesis).
 
