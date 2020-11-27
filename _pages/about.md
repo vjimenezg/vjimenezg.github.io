@@ -24,5 +24,5 @@ You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf) and cont
 
 ## Other
 
-[*The self in Martin Heidegger's Being and Time*](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf) (philosophy undergraduate thesis in spanish).
+*The Self in Martin Heidegger's Being and Time* [link](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf) (philosophy thesis).
 
