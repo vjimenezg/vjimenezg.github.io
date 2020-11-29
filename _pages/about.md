@@ -24,5 +24,5 @@ You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf) and cont
 
 ## Non-Econ
 
-*The Self in Martin Heidegger's Being and Time* [[link]](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf) (philosophy thesis).
+*The Self in Martin Heidegger's Being and Time* [[Link]](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf) (philosophy thesis).
 
