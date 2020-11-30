@@ -22,7 +22,10 @@ You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf) and cont
 
 *Expropriation: A Mechanism Design Approach* (with [Nicolás Figueroa](https://sites.google.com/site/nicolas86figueroa/) and [Juan-Pablo Montero](https://sites.google.com/site/jpmontero1812/home)) [[Slides]](https://vjimenezg.github.io/files/FJM_SlidesPUC.pdf) [Draft coming soon]
 
-## Non-Econ
+## Old Stuff
 
-*The Self in Martin Heidegger's Being and Time* [[Link]](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf) (philosophy thesis).
+Economics Thesis: *Expropriation: A Mechanism Design Approach* [[Link]](https://vjimenezg.github.io/files/MA_Thesis.pdf)
+
+Philosophy Thesis: *The Self in Martin Heidegger's Being and Time* [[Link]](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf)
+
 
