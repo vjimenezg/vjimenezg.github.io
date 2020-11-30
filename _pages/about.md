@@ -26,6 +26,6 @@ You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf) and cont
 
 Economics Thesis: *Expropriation: A Mechanism Design Approach* [[Link]](https://vjimenezg.github.io/files/MA_Thesis.pdf)
 
-Philosophy Thesis: *The Self in Martin Heidegger's Being and Time* [[Link]](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf)
+Philosophy Thesis: *The Self in Martin Heidegger's Being and Time* [[Link]](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf) (in Spanish)
 
 
