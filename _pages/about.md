@@ -3,7 +3,7 @@ title: ""
 permalink: /
 excerpt: "Home"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-I'm currently working as a research associate at the [Instituto Sistemas Complejos de Ingeniería](https://isci.cl/en/) and as a lecturer at the [Department of Engineering and Sciences](https://ingenieria.uai.cl/) at UAI. I'm applying to Economics PhD programs (Fall 2021).
+I'm currently working as a part-time research associate at the [Instituto Sistemas Complejos de Ingeniería](https://isci.cl/en/) and as a lecturer at the [Department of Engineering and Sciences](https://ingenieria.uai.cl/) at UAI. I'm applying to Economics PhD programs (Fall 2021).
 
 You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf) and contact me at vjimenezgimpel [at] gmail [dot] com.
 
@@ -25,5 +25,3 @@ You can find my CV [here](https://vjimenezg.github.io/files/CV_VJG.pdf) and cont
 Economics Thesis: *Expropriation: A Mechanism Design Approach* [[Link]](https://vjimenezg.github.io/files/MA_Thesis.pdf)
 
 Philosophy Thesis: *The Self in Martin Heidegger's Being and Time* [[Link]](https://vjimenezg.github.io/files/Tesis_Filosofia.pdf) (in Spanish)
-
-
